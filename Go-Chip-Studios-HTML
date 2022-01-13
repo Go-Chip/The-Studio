@@ -1,0 +1,122 @@
+<html><head>
+        <meta charset="utf-8">
+        <title>The Studio</title>
+        </head>
+    <body>
+
+
+<h1><center> <p class="title">🧿The <em>Studio</em><br>
+   <em class="description" id="Language...">Home of your favorite video games!</em></p></center></h1>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Font_Awesome_5_solid_bars.svg" width="40" alt="bars" onclick="changepage(0)" mouse="pointer"><br><br>
+            <div class="txts">
+          <input type="text" placeholder="Search" width="10">
+      </div>
+<br>
+
+      
+      <div id="topics" style="">
+             <center>   <table>
+        <thead>
+            <tr>
+                
+                <th class="topMenu" id="Minecraft"><a href="javascript:changepage(1)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Minecraft.png/640px-Minecraft.png" width="250" alt="Minecraft Logo"></a></th>
+                <th class="topMenu"><a href="#roblox"><img src="https://logos-world.net/wp-content/uploads/2020/10/Roblox-Logo.png" width="200" alt="Roblox Logo"></a></th>            
+                <th class="topMenu"><a href="#amongus"><img src="https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_1024/https://www.graphicpie.com/wp-content/uploads/2020/11/among-us-logo-png-1-1024x584.png" width="200" alt="Among_Us Logo"></a></th>
+           
+            </tr>
+        </thead>
+    </table></center>
+           
+
+            
+            
+        </div>
+
+    <h4 class="description2" id="Language..."><center>Welcome to The Studio!</center></h4>
+<center><img src="https://cdn.vox-cdn.com/thumbor/3Y-cQ6fNNy_gmXC7G9aeTQZZ_8g=/0x0:767x431/920x613/filters:focal(323x155:445x277):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63226878/0fe20042_0bb8_4781_82f4_7130f928b021.0.jpg" alt="Minecraft"></center>
+    <style>
+        #furtherInfo {
+            color: white;
+            background-color: #000080;
+            
+        }
+         #more {
+             
+         }
+         
+            /*#search {
+                color:#5F6062;
+                border-radius:10px;
+                border:3px solid #F0F1F1;
+                box-shadow:0px 0px 5px #EDEDED;
+                padding:8px;
+                width:50%;
+                outline:none;
+                border-bottom: 2px dotted rgb(219, 219, 219);
+            }*/
+        #topics {
+                border:0px solid black;
+                border-radius:-7px;
+                width: 100%;
+                font-family: monospace;
+                padding: 0px;
+                background: #000080;
+                }
+        .section {
+            
+        }
+    .description2 {
+        color: #000080;
+        font-size: 20;
+        font-family: Sans-Serif
+        
+    }
+    .description {
+        color: white;
+        font-size: 21;
+    }
+    .topMenu {
+       
+    }
+    .title{
+    color: 195;
+    font-family: Sans-Serif;
+    background-color: 0;
+    }
+    .nascar{
+        font-family: "russo-one";
+    }
+    #logo {
+        font-family: "russo-one";
+    }
+    .menu {
+        font-family: Sans-Serif;
+        background-color:#000080;
+        color: white;
+    }
+        .link {
+            background-color:#000080;
+            color: white;
+            
+        }   
+    .Language... {
+  font-family: Sans-Serif;
+}
+</style>
+
+    <h2></h2>
+<!--<h6 class="nascar"><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Camaro_V8_Racing.jpg/640px-Camaro_V8_Racing.jpg" width="1000" alt="Camaro Zl1"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Camaro_V8_Racing.jpg/640px-Camaro_V8_Racing.jpg" width="275" alt="Camaro Zl1"></a></h6
+<!--Just a bunch of line breaks here.--><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h6 class="menu">This website was made on <a class="link" href="https://www.khanacademy.org">Khan Academy</a> If you want to see more programs from this site, please visit <a class="link" href="https://www.khanacademy.org/computing/computer-programming/browse">https://www.khanacademy.org/computing/computer-programming/browse</a>.
+
+    <br><br>Mojang © 2009-2021. "Minecraft" is a trademark of Mojang AB
+    <br><img src="https://upload.wikimedia.org/wikipedia/en/8/83/Mojang_Studios_logo_2020.svg" width="50" alt="Mojang Studios Logo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Xbox_Game_Studios.svg" width="65" alt="Xbox Game Studios Logo">
+<br>
+<br>
+<a id="furtherInfo" target="_blank" href="https://docs.google.com/document/d/e/2PACX-1vQKNz736Yt_hJ7962vWLsgp6IYuX8RG_1O5n_chiWP3mUw8JqTW8GcPh12-CpERsHM5AOn6dNo6s6G1/pub">Terms of Use</a>
+<br>
+<a id="furtherInfo" href=""></a>
+<div id="Minecraft"></div>
+</h6>
+</body></html>
